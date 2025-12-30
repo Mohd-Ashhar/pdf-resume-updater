@@ -1,0 +1,29 @@
+{
+  "experience_to_add": [
+    "Senior Full Stack Developer | TechCorp Solutions | Jan 2024 - Present",
+    "\u2022 Architected and deployed scalable SaaS platform serving 50,000+ users",
+    "\u2022 Led team of 8 engineers in agile development of AI-powered features",
+    "\u2022 Implemented microservices architecture reducing latency by 45%",
+    "\u2022 Integrated multiple AI APIs (OpenAI, Anthropic) for intelligent automation",
+    "\u2022 Technologies: React, Node.js, Python, Docker, PostgreSQL, AWS",
+    "\u2022 Achieved 99.9% uptime through robust monitoring and DevOps practices"
+  ],
+  "skill_modifications": [
+    {
+      "old": "Python",
+      "new": "Python (Expert - 5+ years)"
+    },
+    {
+      "old": "JavaScript",
+      "new": "JavaScript/TypeScript (Advanced)"
+    },
+    {
+      "old": "React",
+      "new": "React & Next.js (Production)"
+    }
+  ],
+  "certifications_to_add": [
+    "AWS Certified Solutions Architect - Professional (2024)",
+    "Google Cloud Professional Developer (2024)"
+  ]
+}
